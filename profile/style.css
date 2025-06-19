@@ -1,0 +1,22 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #a1c4fd, #c2e9fb); /* light blue gradient */
+  min-height: 100vh;
+}
+.profile-card {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 20px;
+  
+ /* soft white gradient */
+  padding: 30px;
+}
+
+
+
+.profile-image {
+  width: 130px;
+  height: 130px;
+  object-fit: cover;
+  border: 4px solid #007BFF;
+}
